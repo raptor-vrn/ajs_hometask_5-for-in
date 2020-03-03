@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lo0h82ad9jkwhbu6?svg=true)](https://ci.appveyor.com/project/raptor-vrn/ajs-hometask-5-for-in)
